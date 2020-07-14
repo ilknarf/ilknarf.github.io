@@ -6,4 +6,4 @@ permalink: /about/
 
 I'm Frank Li, a third-year computer science student at Grinnell College
 
-Find me on [github][{{ "github.com/" | append: site.minima.social_links.github }}]
+Find me on [github]([{{ "github.com/" | append: site.minima.social_links.github }})
