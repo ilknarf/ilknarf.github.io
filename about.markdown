@@ -12,7 +12,7 @@ I'm Frank, a rising third-year at Grinnell College. I'm currently about halfway 
 
 Language-wise, I'm most comfortable writing Python and Go, but I also have extensive experience writing Javascript and Java, and a solid amount of experience writing C and C++.
 
-I'm also very familar with Amazon Web Services and provisioning infrastructure-as-code using both CDK/Cloudformation as well as Terraform. I have written CI/CD pipelines using both Drone and Azure DevOps
+I'm also very familar with Amazon Web Services and provisioning IaC using both CDK/Cloudformation as well as Terraform. I have written CI/CD pipelines using both Drone and Azure DevOps
 
 In my free time, I have been preparing to take the Certified Kubernetes Administrator exam.
 
