@@ -40,7 +40,7 @@ minima:
 google_analytics: UA-103100219-2
 
 # Build settings
-remote_theme: jekyll/minim
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
