@@ -2,7 +2,7 @@
 layout: post
 title: A love letter to infrastructure-as-code
 date: '2020-07-13 17:16:27 -0500'
-categories: infrastructure cloud devops
+tags: infrastructure cloud devops
 published: true
 ---
 
