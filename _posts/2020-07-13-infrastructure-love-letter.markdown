@@ -2,7 +2,7 @@
 layout: post
 title: A love letter to infrastructure-as-code
 date: '2020-07-13 17:16:27 -0500'
-categories: jekyll update
+categories: infrastructure cloud devops
 published: true
 ---
 
@@ -24,7 +24,7 @@ Personally, the thought has never crossed my mind. Besides being a cornerstone o
 2 Packs of cups
 ```
 
-While my coworker might complain about the extra time needed for us to become accustomed to using the IaC tool (CDK in our case), I think the upsides far outweigh the initial learning curve.
+While my coworker might be wary of extra time needed for us to become accustomed to using the IaC tool (CDK in our case), I believe that the upsides far outweigh the initial learning curve.
 
 ### Developers can become more involved on the operations side.
 After talking with some of the full-time engineers at my internship (as well as other software developers), I've come to understand that there was a dark time where development was hindered by blockers such as:
