@@ -12,6 +12,18 @@ While tweaking AWS' CDK, a fellow intern asked me, "Why can't we just provision 
 
 Personally, the thought has never crossed my mind. Besides being a cornerstone of effective DevOps, IaC is versioned, declarative, and constant: A successful deployment _now_ should (hypothetically) be a successful deployment in X amound of time. Every single modification made to the stack can be tracked and stored, while the deployment itself is both automated and consistent. Having begun my CS experience setting things up on DigitalOcean droplets, I can appreciate simplicity and elegance of being able to accurately and definitely state the shape of the infrastructure using a DSL, code, whatever. 
 
+```
+# Think of infrastructure-as-code as being a magical grocery list,
+# compared to memorizing everything
+
+1 Medium Soda
+2 Banana Milkshakes (1 without whipped cream)
+17 Pineapple Pizzas (3 with extra pineapple)
+4 Bottles of Root Beer (Bring more if needed)
+7 Bags of Doritos
+2 Packs of Cups
+```
+
 While my coworker might complain about the extra time needed for us to become accustomed to using the IaC tool (CDK in our case), I think the upsides far outweigh the initial learning curve.
 
 ### Developers can become more involved on the operations side.
