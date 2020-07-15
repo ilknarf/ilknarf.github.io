@@ -39,7 +39,7 @@ disqus:
   
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
 
