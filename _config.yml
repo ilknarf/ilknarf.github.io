@@ -23,7 +23,7 @@ email: lifrank@grinnell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Furthering the exploration of cloud-based lifeforms
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "ilknarf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ilknarf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   name: Frank Li
