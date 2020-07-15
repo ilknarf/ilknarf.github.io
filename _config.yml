@@ -39,6 +39,9 @@ minima:
 
 google_analytics: UA-103100219-2
 
+disqus:
+  shortname: ilknarf
+
 # Build settings
 remote_theme: jekyll/minima
 plugins:
