@@ -33,7 +33,9 @@ minima:
   social_links:
     github: ilknarf
     linkedin: frank-li-241009174
-    
+
+google_analytics: UA-103100219-2
+
 disqus:
   shortname: ilknarf
   
