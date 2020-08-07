@@ -1,6 +1,6 @@
 ---
 published: true
-title: RSA Cryptography
+title: RSA Cryptography: A Toy Example
 layout: post
 ---
 
