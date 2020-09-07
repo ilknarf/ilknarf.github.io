@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+published: false
 ---
 Here are some of the projects that I am/have been working on:
 - [Grinnell Rent Assistance](http://github.com/grinnell-rent-assistance), an ongoing effort to coordinate rent assistance efforts in Grinnell in an efficient, discrete manner.
