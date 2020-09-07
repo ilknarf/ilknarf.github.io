@@ -6,18 +6,16 @@ published: true
 ---
 Hi, welcome to my page! 
 
-![Thumbs Up Gif](https://media.giphy.com/media/5BTyQlNh8Ugmc/giphy.gif)
+I'm Frank, a third-year computer science student at Grinnell College. I'm passionate about the application of technology to real-world problems, and am always interested in learning about new ways enhance the technological experience.
 
-I'm Frank, a rising third-year at Grinnell College. I'm currently about halfway through a CS major, although for a while I was considering Biochemistry.
+Language-wise, I'm comfortable writing JavaScript(React and Node), Python, Go, Java, C, C++, and Scheme. I have also spent some time writing smart contracts in solidity.
 
-Language-wise, I'm most comfortable writing Python and Go, but I also have extensive experience writing Javascript (React) and Java, and a solid amount of experience writing C and C++.
+This summer, I worked at Principal Financial Group creating data pipelines in AWS for important sales data, as part of an in-progress data lake. I also worked on connecting BI tools like PowerBI to raw and transformed data on AWS, as well as using AWS Athena and AWS Glue to enable querying of raw data in the data lake.
 
-I'm also very familar with Amazon Web Services and provisioning IaC using both CDK/Cloudformation as well as Terraform. I have written CI/CD pipelines using both Drone and Azure DevOps
-
-In my free time, I have been preparing to take the Certified Kubernetes Administrator exam. I also share goofy projects and interesting snippets of code.
+I am actively looking for software engineering internship opportunites for Summer 2021.
 
 Find me on [GitHub][github-link],
-where I publish most of my code tidbits and projects, or [LinkedIn][linkedin-link]
+where I publish some of my code tidbits and projects, or [LinkedIn][linkedin-link]
 
 [github-link]: {{ "http://github.com/" | append: site.minima.social_links.github }}
 [linkedin-link]: {{ "http://linkedin.com/in/" | append: site.minima.social_links.linkedin }}
