@@ -20,8 +20,8 @@ totient(semiprime) = (p1 - 1) * (p2 - 1)
 ```
 The system itself is based off the idea that factoring is way harder computationally than multiplying. It
 uses a proven mathematical system that involves utilizing the triviality of computing totient functions of
-primes (e.g. 7 is coprime with 6 numbers below it) and the multiplicativity of [totient functions]
-(https://en.wikipedia.org/wiki/Euler%27s_totient_function) (the totient of 21 is the same as the totient
+primes (e.g. 7 is coprime with 6 numbers below it) and the multiplicativity of
+[totient functions](https://en.wikipedia.org/wiki/Euler%27s_totient_function) (the totient of 21 is the same as the totient
 of 7 multiplied by the totient of 3) in order to construct a problem that is easy to solve when the primes 
 are known, but computationally unfeasible without the primes) to create a one-way function to calculate 
 private keys from arbitrary public keys.
