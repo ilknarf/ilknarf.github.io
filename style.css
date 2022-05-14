@@ -1,4 +1,8 @@
-box {
+.box {
   margin: 20rem 40rem;
   max-width: 200rem;
+}
+
+.item {
+  background-color: gray;
 }
