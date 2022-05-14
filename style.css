@@ -1,3 +1,6 @@
+.container {
+  margin: 5rem;
+}
 .box {
   max-width: 600px;
 }
