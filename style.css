@@ -1,8 +1,11 @@
 .box {
   max-width: 600px;
-  min-width: 400px;
 }
 
 .item {
   background-color: gray;
+}
+
+li {
+  margin: 1rem 0;
 }
